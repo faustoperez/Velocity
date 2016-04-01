@@ -1,1 +1,3 @@
-Testing the velocity.js library by Julian Shapiro
+Exercises from the velocity.js book by Julian Shapiro
+
+https://github.com/julianshapiro/velocity
