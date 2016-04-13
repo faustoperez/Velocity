@@ -1,3 +1,3 @@
-Exercises from the velocity.js book by Julian Shapiro.
+Demo exercise from the velocity.js book by Julian Shapiro
 
 https://github.com/julianshapiro/velocity
